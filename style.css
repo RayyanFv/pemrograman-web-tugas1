@@ -1,0 +1,48 @@
+.text-primary {
+    color: #54426B; /* Ubah dengan warna yang diinginkan */
+}
+
+.text-secondary {
+    color: #E9F1F7; /* Ubah dengan warna yang diinginkan */
+}
+
+.experience-container {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px 0;
+  }
+  
+  .experience {
+    text-align: center;
+    max-width: 300px;
+  }
+  
+  .experience img {
+    width: 100%;
+    border-radius: 10px;
+  }
+  
+  .description {
+    margin-top: 10px;
+    width: 100%; /* Tambahkan baris ini */
+    box-sizing: border-box; /* Tambahkan baris ini */
+  }
+  
+  .description h3 {
+    font-size: 1.2em;
+  }
+  
+  .description p {
+    font-size: 0.9em;
+    margin: 0; /* Tambahkan baris ini */
+  }
+
+  .footer {
+    background: #623CEA;
+    /* Ganti warna dengan yang diinginkan atau gunakan nilai heksadesimal / rgb() */
+    color: #fff; /* Warna teks */
+    padding: 20px;
+    text-align: center;
+  }
+  
+  
